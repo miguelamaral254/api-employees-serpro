@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MIGUEL\\dev\\ApiCrud\\WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B979249-204C-4434-83F7-E2D5D7C50FDC}|WebAPI.csproj|c:\\users\\miguel\\dev\\apicrud\\webapi\\webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B979249-204C-4434-83F7-E2D5D7C50FDC}|WebAPI.csproj|solutionrelative:webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B979249-204C-4434-83F7-E2D5D7C50FDC}|WebAPI.csproj|c:\\users\\miguel\\dev\\apicrud\\webapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B979249-204C-4434-83F7-E2D5D7C50FDC}|WebAPI.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B979249-204C-4434-83F7-E2D5D7C50FDC}|WebAPI.csproj|c:\\users\\miguel\\dev\\apicrud\\webapi\\services\\employeeservice\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B979249-204C-4434-83F7-E2D5D7C50FDC}|WebAPI.csproj|solutionrelative:services\\employeeservice\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\MIGUEL\\dev\\ApiCrud\\WebAPI\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\MIGUEL\\dev\\ApiCrud\\WebAPI\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAuwC0AAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T23:15:41.723Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebAPI",
+              "DocumentMoniker": "C:\\Users\\MIGUEL\\dev\\ApiCrud\\WebAPI\\WebAPI.csproj",
+              "RelativeDocumentMoniker": "WebAPI.csproj",
+              "ToolTip": "C:\\Users\\MIGUEL\\dev\\ApiCrud\\WebAPI\\WebAPI.csproj",
+              "RelativeToolTip": "WebAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-23T12:57:49.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\MIGUEL\\dev\\ApiCrud\\WebAPI\\Services\\EmployeeService\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Services\\EmployeeService\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\MIGUEL\\dev\\ApiCrud\\WebAPI\\Services\\EmployeeService\\EmployeeService.cs",
+              "RelativeToolTip": "Services\\EmployeeService\\EmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T23:18:33.28Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
