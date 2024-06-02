@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aEMzFR2iqeYf7E4cp1fCRWc/CzoGnDWk0G+p2wrEG4otA3nzvjf9XO6d2SDJ28BkaVzPFoGBbrrDi+huhsvV/A==",
+  "dgSpecHash": "/ssRDJ5wVDggAoikbk3UW6gk6o2XL0a31zjerbgtZQuln+CuoMPtgmCdTLA13wCoi7FtGG6SLMEm5UFnOGjuog==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MIGUEL\\Documents\\dev\\Residência\\ApiCrud\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\MIGUEL\\Documents\\dev\\Residência\\api-employees-serpro\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MIGUEL\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\MIGUEL\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
@@ -20,6 +20,7 @@
     "C:\\Users\\MIGUEL\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.3\\microsoft.entityframeworkcore.abstractions.8.0.3.nupkg.sha512",
     "C:\\Users\\MIGUEL\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.3\\microsoft.entityframeworkcore.analyzers.8.0.3.nupkg.sha512",
     "C:\\Users\\MIGUEL\\.nuget\\packages\\microsoft.entityframeworkcore.design\\8.0.3\\microsoft.entityframeworkcore.design.8.0.3.nupkg.sha512",
+    "C:\\Users\\MIGUEL\\.nuget\\packages\\microsoft.entityframeworkcore.inmemory\\8.0.3\\microsoft.entityframeworkcore.inmemory.8.0.3.nupkg.sha512",
     "C:\\Users\\MIGUEL\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\8.0.3\\microsoft.entityframeworkcore.relational.8.0.3.nupkg.sha512",
     "C:\\Users\\MIGUEL\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\8.0.3\\microsoft.entityframeworkcore.sqlserver.8.0.3.nupkg.sha512",
     "C:\\Users\\MIGUEL\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\8.0.3\\microsoft.entityframeworkcore.tools.8.0.3.nupkg.sha512",
